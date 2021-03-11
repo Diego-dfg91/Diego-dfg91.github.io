@@ -7,15 +7,15 @@ author: dfg
 
 - Título
 - Lista
-- PArte de código
-- Enlace a pázina web
+- Parte de código
+- Enlace a páxina web
 - Imaxe
 - Link a referencias 
 
 Como diría Mies Van Der Rohe:
 > Menos es más
 
-Introduzco una tábla con código:
+Introduzo código de unha táboa:
 ```
 <html>
   <body>
