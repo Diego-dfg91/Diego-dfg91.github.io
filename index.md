@@ -35,3 +35,9 @@ Introduzco una tábla con código:
   </body>
 </html>
 ```
+
+Enlace a páxina web do centro:
+[Ies San Clemente](https://www.iessanclemente.net/)
+
+Introduzo unha imaxe
+![Non funciona](/programacion.jpg)
