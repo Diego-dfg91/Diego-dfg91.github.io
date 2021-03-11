@@ -41,3 +41,6 @@ Enlace a páxina web do centro:
 
 Introduzo unha imaxe
 ![Non funciona](/programacion.jpg)
+
+Enlace a páxina de referencias creada
+[Preme aquí](/referencias.md)
